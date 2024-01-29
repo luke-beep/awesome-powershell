@@ -1,6 +1,6 @@
 function Remove-ScheduledTask {
     [CmdletBinding()]
-    PARAM(
+    PARAM (
         [Parameter(Mandatory = $true, Position = 0)]
         [string]$TaskName
     )
