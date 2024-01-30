@@ -153,7 +153,7 @@ PowerShell is a versatile tool that operates across various platforms (Windows, 
 
 ![PowerShell](assets/hero.png)
 
-**<div align="center" id="footer">© 2023 LukeHjo. All rights reserved. <div>**
+**<div align="center" id="footer">© 2024 LukeHjo. All rights reserved. <div>**
 
 <br>
 
